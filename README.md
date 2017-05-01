@@ -1,12 +1,15 @@
-Spitter
+##Spitter
+----------
+A silly program that calls you and reads tweets to you. :p
 
-A silly program that calls you can read tweets to you. :p
+Every time someone who you've followed on **Spitter** (not Twitter) tweets, Spitter will call you and read their tweet to you.
+**You don't need a Twitter account for following people on Spitter**
+Analyze user emotion based on his/her tweet. Voices switch based on the positivity/negetivity of the emotion.
 
-Every time someone who you've followed on Spitter tweets, Spitter will call you and read their tweet to you.
-Analyze user emotion based on his/her tweet. Voices switch based on the positivity of the emotion.
+Inspiration:
+Based on a *very* common unmet need in the social media market - people who want to check their Twitter while blindfolded.
 
-Based on a  very common unmet need in the social media market - people who want to check their Twitter while blindfolded.
-
+----------
 **How to sign up for Spitter**
 
 Message Number: 617-858-8543
