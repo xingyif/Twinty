@@ -1,4 +1,4 @@
-##Spitter
+#Spitter
 ----------
 A silly program that calls you and reads tweets to you. :p
 
